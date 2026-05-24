@@ -3,11 +3,11 @@
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Code Editors, Agents & Development Environments*  
-**Last updated: March 2026**
+**Last updated: May 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI-powered code editors and IDEs**. These tools provide intelligent code completion, chat-based assistance, multi-file editing, agentic capabilities (autonomous task execution), debugging help, and full project understanding powered by large language models.
 
-**Examples** include Cursor, Windsurf, Void, Antigravity, PearAI, Trae, Aider, Claude Code, Replit Agent, Continue, and Zed (the category leaders). Tools listed here emphasize **agentic coding**, deep codebase understanding, natural language editing, and high productivity gains for developers.
+**Examples** include Cursor, Windsurf, Void, Antigravity, PearAI, Trae, Aider, Claude Code, Replit Agent, Gemini CLI, Devin, and Zed (the category leaders). Tools listed here emphasize **agentic coding**, deep codebase understanding, natural language editing, and high productivity gains for developers.
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama, LM Studio), full customization, privacy, and zero subscription costs — ideal for developers and teams wanting complete control over their AI coding environment.
 
@@ -29,6 +29,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Windsurf](https://windsurf.com/)**  
   Next-generation AI code editor designed for high-velocity development with strong agentic capabilities and seamless workflow integration.
 
+- **[Devin](https://www.cognition.ai/devin)**  
+  The first autonomous AI software engineer capable of planning and executing complex engineering tasks, fixing bugs, and learning new technologies end-to-end.
+
+- **[Magic](https://magic.dev/)**  
+  AI software engineer powered by LTM-1, featuring a massive context window (100M+ tokens) to reason over entire repositories.
+
 - **[Void](https://void.dev/)** / **[Void IDE](https://void.dev/)**  
   Modern AI-native code editor focused on speed, privacy, and deep integration with local and cloud models.
 
@@ -46,7 +52,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: GitHub Copilot Workspace, Amazon CodeWhisperer, Tabnine, and various VS Code + Copilot setups.
+- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**  
+  AWS's suite of agentic features for code generation, testing, and automated upgrades (like Java version migrations).
+
+- **[Supermaven](https://supermaven.com/)**  
+  Extremely low-latency AI coding assistant with a 1-million-token context window for deep project understanding.
+
+- **[Cosine](https://cosine.sh/)**  
+  AI software engineer that deeply indexes codebases to provide high-fidelity context for generation and search.
+
+- **[GitHub Copilot Workspace](https://github.com/features/copilot)**  
+  Copilot-native environment for planning and executing complex tasks across the GitHub ecosystem.
+
+**Other notable mentions**: Tabnine, JetBrains AI Assistant, and various specialized VS Code + Copilot setups.
 
 ## Open-Source GitHub Projects
 
@@ -58,8 +76,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Aider](https://github.com/paul-gauthier/aider)**  
   Command-line AI coding assistant that edits code directly in your local Git repository. Excellent for pair programming with Claude, GPT, or local models.
 
+- **[Melty](https://github.com/meltylabs/melty)**  
+  The first open-source AI code editor that understands your entire stack, tracking changes across the frontend and backend.
+
 - **[Zed](https://github.com/zed-industries/zed)**  
   High-performance, open-source code editor (Rust) with built-in AI capabilities and extremely fast performance. Supports multiple LLM providers.
+
+- **[Gemini CLI](https://github.com/google/gemini-cli)**  
+  Interactive CLI agent for codebase management and autonomous software engineering, featuring a massive context window and deep tool integration.
+
+- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** (Formerly OpenDevin)  
+  Community-driven open-source AI software engineer that can autonomously plan and execute complex coding tasks.
+
+- **[Plandex](https://github.com/plandex-ai/plandex)**  
+  Terminal-based AI agent for complex, multi-step coding tasks, featuring sandboxed execution and version control integration.
 
 - **[Opencode](https://github.com/opencode-ai/opencode)**  
   Open-source AI-native code editor focused on transparency, speed, and community-driven development.
@@ -70,23 +100,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Void](https://github.com/voideditor/void)**  
   Open-source AI code editor designed as a fully local-first and privacy-focused alternative.
 
-- **[OpenDevin](https://github.com/OpenDevin/OpenDevin)**  
-  Community-driven open-source AI software engineer that can autonomously plan and execute complex coding tasks.
+- **[Mentat](https://github.com/Mentat-AI/mentat)**  
+  AI coding assistant that lives in your terminal and works alongside your existing editor to handle multi-file changes.
 
-- **[Codeium](https://github.com/Exafunction/codeium)** (open-source components)  
-  Free AI code completion engine with self-hostable options and strong open-source integrations.
+- **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)**  
+  AI developer that builds production-ready applications from scratch by collaborating with the developer.
 
 ### Additional Strong Open-Source Options
 
 - **[Tabby](https://github.com/TabbyML/tabby)** — Self-hosted AI coding assistant with full model customization.
 - **[Ollama + VS Code extensions]** — Many community projects combining Ollama with Continue or custom extensions.
-- **[Anysphere Cursor forks]** and open alternatives.
 - **[Devon](https://github.com/entropy-research/Devon)** — Autonomous AI software engineer (open research project).
 - **[Sweep](https://github.com/sweepai/sweep)** — AI-powered GitHub app that creates pull requests to fix issues.
 - **[Roo Code](https://github.com/RooVetGit/Roo-Code)** and other agentic coding frameworks.
 - Extensive ecosystem of **VS Code extensions** for local LLMs, including Continue, Genie, and Cody.
 
 **Frameworks for building custom agents**: Combine **Continue.dev** + **Aider** + **LangGraph** / **CrewAI** with **Ollama** or **vLLM** for fully local, private, and highly customizable AI coding environments.
+
 
 ## How to Contribute
 
