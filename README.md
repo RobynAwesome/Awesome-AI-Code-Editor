@@ -34,26 +34,23 @@ This list tracks the best **SaaS platforms** and **Open-Source GitHub projects**
 
 ## 🏆 SaaS Products
 
-### 💎 Core Platforms (AI Code Editors & Agents)
+The AI coding market has matured into a landscape dominated by tech giants and hyper-growth unicorns. Below are the leading SaaS platforms, sorted by their parent company's valuation or latest funding round.
 
-| Tool | Description | Highlights |
-| :--- | :--- | :--- |
-| **[Cursor](https://cursor.com/)** | The gold standard for AI-first editors. | VS Code fork, codebase indexing, Composer mode. |
-| **[Windsurf](https://windsurf.com/)** | High-velocity AI IDE by Codeium. | Flow state, agentic reasoning, deep integration. |
-| **[Devin](https://www.cognition.ai/devin)** | The world's first autonomous AI software engineer. | Plans, executes, and fixes bugs independently. |
-| **[Magic](https://magic.dev/)** | LTM-1 powered IDE with massive context. | 100M+ token context window. |
-| **[Void IDE](https://void.dev/)** | Modern AI-native editor focused on privacy. | Fast, local-friendly, seamless UX. |
-| **[PearAI](https://pear.ai/)** | Open-core AI editor for modern workflows. | Developer-centric, extensible agents. |
-| **[Trae](https://trae.ai/)** | Adaptive AI coding assistant. | Advanced reasoning, project-level intelligence. |
-| **[Replit Agent](https://replit.com/)** | Build and deploy apps via chat. | Fully integrated cloud environment. |
-| **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | Superior reasoning, large context handling. |
-
-### 🛠️ Advanced & Specialized Tools
-
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**: AWS-native agentic features and automated upgrades.
-- **[Supermaven](https://supermaven.com/)**: Ultra-fast (low latency) with 1M token context.
-- **[Cosine](https://cosine.sh/)**: Deep codebase indexing for high-fidelity context.
-- **[GitHub Copilot Workspace](https://github.com/features/copilot)**: Plan-first development within GitHub.
+| Tool | Description | Highlights | Size (Valuation) |
+| :--- | :--- | :--- | :--- |
+| **[GitHub Copilot Workspace](https://github.com/features/copilot)** | Plan-first development within GitHub. | Native integration with the world's largest code host. | **$3.5T** (Microsoft) |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | AWS-native agentic features. | Automated upgrades and deep AWS ecosystem integration. | **$2.1T** (Amazon) |
+| **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | $44B ARR; features superior reasoning and large context. | **$965B** (Anthropic) |
+| **[Trae](https://trae.ai/)** | Adaptive AI coding assistant by ByteDance. | Unlimited free access to Claude 3.7 and GPT-4o. | **$600B** (ByteDance) |
+| **[Cursor](https://cursor.com/)** | The gold standard for AI-first editors. | $2B ARR; acquired Supermaven to boost speed. | **$50B** (Anysphere) |
+| **[Devin](https://www.cognition.ai/devin)** | The world's first autonomous AI software engineer. | Plans, executes, and fixes bugs independently. | **$26B** (Cognition AI) |
+| **[Replit Agent](https://replit.com/)** | Build and deploy apps via chat. | Fully integrated cloud environment; $525M ARR. | **$9B** (Replit) |
+| **[Windsurf](https://windsurf.com/)** | High-velocity AI IDE by Codeium. | Flow state; acquired by Google & Cognition (2025). | **$2.4B** (Exit Value) |
+| **[Magic](https://magic.dev/)** | LTM-1 powered IDE with massive context. | 100M+ token context window for large projects. | **$1.5B+** (Magic.dev) |
+| **[Cosine](https://cosine.sh/)** | Deep codebase indexing for high-fidelity context. | Selected for UK Sovereign AI programme. | **$31.8M** (Cosine) |
+| **[PearAI](https://pear.ai/)** | Open-core AI editor for modern workflows. | **Out of Business (June 2026).** | **$2.5M** (YC S24) |
+| **[Void IDE](https://void.dev/)** | Modern AI-native editor focused on privacy. | **Development Paused.** | **$1M** (YC S24) |
+| **[Supermaven](https://supermaven.com/)** | Ultra-fast with 1M token context. | **Acquired by Cursor (2024).** | Part of Cursor |
 
 ---
 
