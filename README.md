@@ -10,6 +10,7 @@
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=opensourceinitiative&color=BC8CFF)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Code-Editor?style=for-the-badge&logo=git&color=40C463)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/ishandutta2007/Awesome-AI-Code-Editor/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
 
 **Transforming the way developers write, debug, and deploy code with Agentic AI.**
 
