@@ -59,29 +59,29 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 ### 🌟 Top Dedicated AI Editors & Agents
 
-- **[Continue](https://github.com/continuedev/continue)** 🛠️  
-  The leading open-source autopilot. Supports Ollama, local models, and custom workflows in VS Code/JetBrains.
-- **[Aider](https://github.com/paul-gauthier/aider)** ⌨️  
-  CLI-based AI pair programmer. Edits files directly in your Git repo. Best-in-class for terminal users.
-- **[Zed](https://github.com/zed-industries/zed)** ⚡  
-  High-performance Rust-based editor with native AI capabilities. Blazing fast.
-- **[Gemini CLI](https://github.com/google/gemini-cli)** 🤖  
+- **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
   Interactive CLI agent for autonomous software engineering with massive context integration.
-- **[OpenHands](https://github.com/All-Hands-AI/OpenHands)** 👐  
+- **[Zed](https://github.com/zed-industries/zed)** [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) ⚡  
+  High-performance Rust-based editor with native AI capabilities. Blazing fast.
+- **[OpenHands](https://github.com/OpenHands/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers) 👐  
   Community-driven autonomous AI software engineer (formerly OpenDevin).
-- **[Melty](https://github.com/meltylabs/melty)** 🍦  
-  First open-source AI editor that tracks changes across your entire stack.
-- **[Plandex](https://github.com/plandex-ai/plandex)** 📝  
+- **[Aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers) ⌨️  
+  CLI-based AI pair programmer. Edits files directly in your Git repo. Best-in-class for terminal users.
+- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers) 🛠️  
+  The leading open-source autopilot. Supports Ollama, local models, and custom workflows in VS Code/JetBrains.
+- **[Plandex](https://github.com/plandex-ai/plandex)** [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers) 📝  
   Terminal-based agent for complex, multi-step tasks with sandboxed execution.
-- **[Mentat](https://github.com/Mentat-AI/mentat)** 🧠  
+- **[Melty](https://github.com/meltylabs/melty)** [![GitHub stars](https://img.shields.io/github/stars/meltylabs/melty?style=social&color=white)](https://github.com/meltylabs/melty/stargazers) 🍦  
+  First open-source AI editor that tracks changes across your entire stack.
+- **[Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)** [![GitHub stars](https://img.shields.io/github/stars/AbanteAI/archive-old-cli-mentat?style=social&color=white)](https://github.com/AbanteAI/archive-old-cli-mentat/stargazers) 🧠  
   AI coding assistant that lives in your terminal and understands your project context.
 
 ### 🔬 Experimental & Specialized OS Tools
 
-- **[Tabby](https://github.com/TabbyML/tabby)**: Self-hosted, private AI coding assistant.
-- **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)**: AI developer that builds production-ready apps from scratch.
-- **[Sweep](https://github.com/sweepai/sweep)**: AI-powered GitHub App for automated issue fixing.
-- **[Roo Code](https://github.com/RooVetGit/Roo-Code)**: Advanced agentic coding framework for VS Code.
+- **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers): AI developer that builds production-ready apps from scratch.
+- **[Tabby](https://github.com/TabbyML/tabby)** [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers): Self-hosted, private AI coding assistant.
+- **[Roo Code](https://github.com/RooCodeInc/Roo-Code)** [![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers): Advanced agentic coding framework for VS Code.
+- **[Sweep](https://github.com/sweepai/sweep)** [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers): AI-powered GitHub App for automated issue fixing.
 
 ---
 
