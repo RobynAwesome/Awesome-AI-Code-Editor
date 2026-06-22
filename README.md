@@ -110,6 +110,9 @@ Contributions make the community awesome! Please follow these steps:
 
 [See full contributing guidelines](CONTRIBUTING.md)
 
+* • **[Kopano Context](https://github.com/Kopano-Labs/kopano-context)** [![GitHub stars](https://img.shields.io/github/stars/Kopano-Labs/kopano-context?style=flat)](https://github.com/Kopano-Labs/kopano-context/stargazers) 🌍
+  Sovereign, offline-first multi-agent MCP orchestration framework from Cape Town, SA. Connects Claude, Gemini, Grok & Azure AI in parallel. Built for bandwidth-constrained and loadshedding-affected African infrastructure.
+
 ---
 
 ## 📈 Star History
