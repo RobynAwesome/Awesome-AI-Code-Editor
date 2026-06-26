@@ -34,14 +34,15 @@ This list tracks the best **SaaS platforms** and **Open-Source GitHub projects**
 
 ## 🏆 SaaS Products
 
-The AI coding market has matured into a landscape dominated by tech giants and hyper-growth unicorns. Below are the leading SaaS platforms, sorted by their parent company's valuation or latest funding round.
+The AI coding market has matured into a landscape dominated by tech giants and hyper-growth unicorns. Below are the leading SaaS platforms, sorted by their parent company's valuation or latest funding round, separated into IDE/Editor tools and CLI/Terminal tools.
+
+### 💻 IDE & Editor Tools
 
 | Tool | Description | Highlights | Pricing | Free Tier Limit | Size (Valuation) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[GitHub Copilot Workspace](https://github.com/features/copilot)** | Plan-first development within GitHub. | Native integration with the world's largest code host. | From $10/mo (Individual), $19/user/mo (Business), $39/user/mo (Enterprise) | 2,000 completions/mo, 50 premium requests/mo (free for verified students/teachers/OSS maintainers) | **$3.5T** (Microsoft) |
-| **[Antigravity CLI](https://antigravity.google)** | Google's premier agent-first CLI development platform. | Multi-agent CLI workspace replacing legacy Gemini CLI. | Pro ($19.99/mo), Ultra ($100/mo), Ultra Max ($200/mo) | Basic weekly/hourly limits on compute effort | **$2.2T** (Google) |
-| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | AWS-native agentic features. | Automated upgrades and deep AWS ecosystem integration. | $19/user/mo (Pro) | 50 chat interactions/mo, 1,000 LOC transformation/mo, 25 account queries/mo | **$2.1T** (Amazon) |
-| **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | $44B ARR; features superior reasoning and large context. | API consumption or Claude Pro ($20/mo) / Claude Max ($100-$200/mo) | No Free Tier | **$965B** (Anthropic) |
+| **[Antigravity IDE](https://antigravity.google)** | Google's premier agent-first IDE platform. | Multi-agent IDE workspace / Antigravity 2.0 integrations. | Pro ($19.99/mo), Ultra ($100/mo), Ultra Max ($200/mo) | Basic weekly/hourly limits on compute effort | **$2.2T** (Google) |
+| **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** | AWS-native agentic features in IDEs. | Automated upgrades and deep AWS ecosystem integration. | $19/user/mo (Pro) | 50 chat interactions/mo, 1,000 LOC transformation/mo, 25 account queries/mo | **$2.1T** (Amazon) |
 | **[Trae](https://trae.ai/)** | Adaptive AI coding assistant by ByteDance. | Unlimited free access to Claude 3.7 and GPT-4o. | Lite ($3/mo), Pro ($10/mo), Pro+ ($30/mo), Ultra ($100/mo) | 5,000 autocompletions/mo, 2 concurrent cloud tasks | **$600B** (ByteDance) |
 | **[Cursor](https://cursor.com/)** | The gold standard for AI-first editors. | $2B ARR; acquired Supermaven to boost speed. | Pro ($20/mo), Business ($40/user/mo) | 2,000 completions/mo, 50 slow premium requests/mo | **$50B** (Anysphere) |
 | **[Devin](https://www.cognition.ai/devin)** | The world's first autonomous AI software engineer. | Plans, executes, and fixes bugs independently. | Pro ($20/mo), Max ($200/mo), Teams ($80/mo min) | Light quota, unlimited inline/tab completions (limited models) | **$26B** (Cognition AI) |
@@ -49,12 +50,21 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Windsurf](https://windsurf.com/)** | High-velocity AI IDE by Codeium. | Flow state; acquired by Google & Cognition (2025). | Pro ($15/mo), Max ($200/mo) | Light daily/weekly quota for Cascade/Chat, unlimited autocompletions | **$2.4B** (Exit Value) |
 | **[Magic](https://magic.dev/)** | LTM-1 powered IDE with massive context. | 100M+ token context window for large projects. | Pricing not yet public (Waitlist) | N/A (Closed Beta) | **$1.5B+** (Magic.dev) |
 | **[Cosine](https://cosine.sh/)** | Deep codebase indexing for high-fidelity context. | Selected for UK Sovereign AI programme. | Hobby ($20/mo), Professional ($99/user/mo) | 80 tasks/mo, up to 100 projects | **$31.8M** (Cosine) |
-| **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[PearAI](https://pear.ai/)** | Open-core AI editor for modern workflows. | **Out of Business (June 2026).** | N/A | N/A | **$2.5M** (YC S24) |
 | **[Void IDE](https://void.dev/)** | Modern AI-native editor focused on privacy. | **Development Paused.** | N/A (Free/Open Source) | N/A (Self-hosted) | **$1M** (YC S24) |
+| **[Supermaven](https://supermaven.com/)** | Ultra-fast with 1M token context. | **Acquired by Cursor (2024).** | N/A (Merged with Cursor) | N/A (Merged with Cursor) | Part of Cursor |
+
+### ⌨️ CLI & Terminal Tools
+
+| Tool | Description | Highlights | Pricing | Free Tier Limit | Size (Valuation) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Copilot CLI](https://github.com/features/copilot)** | Command-line utility for shell command generation and explanation. | Integrated directly into standard shells via `gh copilot`. | From $10/mo (Individual), $19/user/mo (Business), $39/user/mo (Enterprise) | 2,000 completions/mo, 50 premium requests/mo (free for verified students/teachers/OSS maintainers) | **$3.5T** (Microsoft) |
+| **[Antigravity CLI](https://antigravity.google)** | Google's premier agent-first CLI development platform. | Multi-agent CLI workspace replacing legacy Gemini CLI. | Pro ($19.99/mo), Ultra ($100/mo), Ultra Max ($200/mo) | Basic weekly/hourly limits on compute effort | **$2.2T** (Google) |
+| **[Kiro CLI](https://kiro.dev)** | AI-powered terminal assistant succeeding Amazon Q Developer CLI. | Intelligent command autocompletion, chat, and explanation. | Included with existing Amazon Q Developer subscriptions / Pro | Free tier limits apply | **$2.1T** (Amazon / Kiro) |
+| **[Claude Code](https://claude.ai/)** | Anthropic's power-user coding interface. | $44B ARR; features superior reasoning and large context. | API consumption or Claude Pro ($20/mo) / Claude Max ($100-$200/mo) | No Free Tier | **$965B** (Anthropic) |
+| **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
-| **[Supermaven](https://supermaven.com/)** | Ultra-fast with 1M token context. | **Acquired by Cursor (2024).** | N/A (Merged with Cursor) | N/A (Merged with Cursor) | Part of Cursor |
 
 ---
 
