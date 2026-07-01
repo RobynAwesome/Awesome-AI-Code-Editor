@@ -85,6 +85,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
+| **[MiMo Code](https://mimo.xiaomi.com/mimocode)** | Xiaomi's open-source, terminal-native AI coding agent. | Features a persistent memory system, Plan/Build/Compose workflow modes, and self-evolution. | BYO API Key or pay-as-you-go ($0.10-$1.00/1M tokens) | Free tier limits apply (includes limited-time free model MiMo-V2.5) | **$71B** (Xiaomi) |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
 
 ---
@@ -99,6 +100,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   Clean-room rewrite of Claude Code architecture in Python/Rust.
 - **[OpenCode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) ⌨️  
   Terminal-native coding agent with 75+ provider support and LSP integration.
+- **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** [![GitHub stars](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Code?style=social&color=white)](https://github.com/XiaomiMiMo/MiMo-Code/stargazers)  ⌨️  
+  Has free for ever models in hosted version and is opensource to try local models.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
   Interactive CLI agent for autonomous software engineering with massive context integration.
 - **[Codex CLI](https://github.com/openai/codex)** [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) ⌨️  
